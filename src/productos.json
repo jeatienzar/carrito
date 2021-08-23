@@ -1,0 +1,38 @@
+[
+  {
+    "precio": 200,
+    "id": 1,
+    "title": "Geranio",
+    "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+  },
+  {
+    "precio": 400,
+    "id": 2,
+    "title": "Lirio",
+    "thumbnailUrl": "https://via.placeholder.com/150/771796"
+  },
+  {
+    "precio": 300,
+    "id": 3,
+    "title": "Galatea",
+    "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+  },
+  {
+    "precio": 200,
+    "id": 4,
+    "title": "Don Pedro",
+    "thumbnailUrl": "https://via.placeholder.com/150/d32776"
+  },
+  {
+    "precio": 450,
+    "id": 5,
+    "title": "Dracea",
+    "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
+  },
+  {
+    "precio": 8000,
+    "id": 6,
+    "title": "Tropical",
+    "thumbnailUrl": "https://via.placeholder.com/150/56a8c2"
+  }
+]
