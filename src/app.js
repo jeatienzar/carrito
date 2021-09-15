@@ -10,6 +10,8 @@ const templateCarrito = document.getElementById("template-carrito").content;
 const fragment = document.createDocumentFragment();
 let carrito = {};
 
+//comment
+
 
 document.addEventListener("DOMContentLoaded", () => {
     
